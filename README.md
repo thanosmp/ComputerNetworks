@@ -1,4 +1,4 @@
-# NetworkProtocolSmulation
+# Network Performance & Routing Algorithms (C)
 This repository contains a collection of C programs developed for the Computer Networks course at the University of Piraeus. The projects focus on network performance evaluation, end-to-end delay calculations, packet fragmentation, and the implementation of classic routing algorithms.
 
 ## Technologies
